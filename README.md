@@ -2,6 +2,8 @@
 
 Este repositório apresenta a resolução de um estudo de caso proposto durante um processo seletivo para a área de Planejamento Comercial de uma empresa do setor de delivery. O desafio envolvia decisões estratégicas sobre alocação de equipes comerciais, com base em dados sumarizados de leads por região.
 
+📄 [Clique aqui para ver a apresentação em PDF](./presentation/case-planejamento-comercial.pdf)
+
 > 🧠 **Foco principal**: Raciocínio analítico, visão de negócio e clareza na comunicação.
 
 ---
